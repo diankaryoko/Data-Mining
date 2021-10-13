@@ -2,6 +2,10 @@
 
 Repository ini berisi kumpulan project dari tugas-tugas mata kuliah Data Mining.
 
+# Project 1 Data Mining : Ashrae Energy Prediction
+
+Project ini bertujuan untuk melakukan exploratory data analysis pada dataset dari kompetisi yang diadakan oleh Ashrae.
+
 Kelompok F:
 1. Alya Nadifa Putri (1806144342)
 2. Kinanti Jati Kinasih (1806144456)
@@ -11,7 +15,3 @@ Kelompok F:
 6. Muhamad Alchem Nuravian Permana (1806207873)
 7. Anastasia Juniaty (1806208251)
 8. Gilang Laksana Prawira (1806232124)
-
-# Project 1 Data Mining : Ashrae Energy Prediction
-
-Project ini bertujuan untuk melakukan exploratory data analysis pada dataset dari kompetisi yang diadakan oleh Ashrae.
